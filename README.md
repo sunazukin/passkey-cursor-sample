@@ -26,8 +26,8 @@
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/yourusername/passkey-demo.git
-cd passkey-demo
+git clone https://github.com/sunazukin/passkey-cursor-sample.git
+cd passkey-cursor-sample
 
 # 依存関係のインストール
 npm install
