@@ -1,0 +1,40 @@
+# 依存関係
+/node_modules
+/.pnp
+.pnp.js
+
+# テスト
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# 本番ビルド
+/build
+/dist
+
+# その他
+.DS_Store
+*.pem
+
+# デバッグ
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ローカル環境変数
+.env*.local
+.env
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# プロジェクト特有
+/.data
+/users.json
