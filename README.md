@@ -56,10 +56,6 @@ npm run dev
 - ユーザーデータはサーバーのファイルシステム（`.data/users.json`）に保存されます
 - パスキーの使用には、WebAuthnをサポートするモダンブラウザが必要です
 
-## ライセンス
-
-MIT
-
 ## 参考資料
 
 - [WebAuthn ガイド](https://webauthn.guide/)
